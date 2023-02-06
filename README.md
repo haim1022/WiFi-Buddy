@@ -28,7 +28,7 @@ You can use 3 push buttons instead of the RF remote, but you'll need to multiple
 ### Schematic diagram
 
 <p align="center">
-<img alt="Schematic Diagram" src="Images/Schematics.png">
+<img alt="Schematic Diagram" src="Images/Schematics_diagram.png">
 </p>
                            
 To supply power to the circuit you can use the Arduino USB connector or the Power supply connector (on Arduino Uno).
