@@ -47,8 +47,6 @@ Code is available [here](Code/Main_-_WeMos)
 
 Webpage files are located [here](Code/webpage_data)
 
-Notice: You'll need to transfer the webpage files (HTML, CSS and JS) to the SPIFFs of the ESP32.
-
 ### Watch this project in action
 
 Examine this demo video
