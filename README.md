@@ -1,6 +1,6 @@
 # ESP32 Wireless networks tester tool
 
-![Main Image](images/Main_photo.jpg)
+![Main Image](Images/Main_photo.JPG)
 
 This project is very useful as it can be used as a testing tool for wireless networks.
 To control the menu of the device you'll use an RF remote, but with some simple changes to the code you can implement the use of push buttons.
@@ -28,7 +28,7 @@ You can use 3 push buttons instead of the RF remote, but you'll need to multiple
 ### Schematic diagram
 
 <p align="center">
-<img alt="Schematic Diagram" src="images/Arduino%20spectrum%20analyzer%20-%20schematic_fixed_1.png">
+<img alt="Schematic Diagram" src="Images/Schematics.png">
 </p>
                            
 To supply power to the circuit you can use the Arduino USB connector or the Power supply connector (on Arduino Uno).
@@ -43,11 +43,13 @@ After connecting to a desired network you can navigate the menu to choose which 
 
 ## Code
 
-Code is available [here](Code/Arduino-32band-audio-spectrum-visualizer-analyzer.ino)
+Code is available [here](Code/Main_-_WeMos)
+
+Webpage files are located [here](Code/webpage_data)
 
 ### Watch this project in action
 
 Examine this demo video
 
 
- [![Demo Video](http://img.youtube.com/vi/GF_i0EEro/0.jpg)](https://youtu.be/GF_i0Ero)
+ [![Demo Video](http://img.youtube.com/vi/cGxiWKFtRDY/0.jpg)](https://youtu.be/cGxiWKFtRDY)
